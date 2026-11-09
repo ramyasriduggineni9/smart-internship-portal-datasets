@@ -16,3 +16,9 @@ This folder contains job-posting data for the Smart Internship Portal.
 ## Note
 
 This dataset contains sample/historical job postings. It is not a live job feed. Check the dataset's licence before redistributing it.
+
+
+## Alternative Dataset Hosting
+
+Hugging Face Dataset:
+https://huggingface.co/datasets/jason1966/PromptCloudHQ_jobs-on-naukricom
